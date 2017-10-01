@@ -1,0 +1,7 @@
+DW.html - project report in html format
+data_wrangling.py - python file for csv conversion
+mini_sample_small.osm - A small sample file of original osm file
+new-delhi.ipynb - codes for auditing and cleaning data
+reference.txt - references used 
+schema.py - A schema used in this project work
+SQL_queries.ipynb - queries done in the project work
